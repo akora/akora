@@ -6,4 +6,4 @@
 
 🤖 I'm extensively integrating **AI coding assistants** into my workflow. These tools help me accelerate development by generating boilerplate code, refactoring existing scripts, and providing explanations for complex functions. This allows me to learn new technologies faster and focus on the architectural challenges of my projects.
 
-📫 You can find more of my work and get in touch with me on my personal website: **https://www.andraskora.com**. Feel free to connect there to discuss my projects or any shared interests.
+📫 You can find more of my work and get in touch with me on my personal website: **https://andraskora.com**. Feel free to connect there to discuss my projects or any shared interests.
