@@ -1,7 +1,7 @@
-👋 Hi, I’m @akora, an IT enthusiast, in this space working on various personal projects.
+👋 Hi, I’m @akora, an IT enthusiast and developer who uses this space to work on a variety of personal projects. My focus is on hands-on exploration and creating practical solutions that leverage modern technologies.
 
-👀 I’m interested in web content management systems (mostly Drupal and Ghost), IaC, containerization, home lab building.
+👀 I’m particularly interested in **web content management systems**, with a primary focus on modern platforms like **Drupal** and **Ghost**. I'm also passionate about **Infrastructure as Code (IaC)** and **containerization** for building automated, scalable, and portable applications.
 
-🌱 I’m currently (re)learning Terraform and Ansible while extensively using AI assistants along the way.
+🌱 I'm currently expanding my skillset by diving deeper into **Terraform** for infrastructure provisioning and **Ansible** for configuration management. My goal is to use these tools to create fully automated, repeatable environments and workflows for my personal and professional projects.
 
-📫 My (slightly abandoned) personal website can be found at https://www.andraskora.com/
+📫 You can find more of my work and get in touch with me on my personal website: **https://www.andraskora.com**. Feel free to connect there to discuss my projects or any shared interests.
