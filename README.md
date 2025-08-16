@@ -14,6 +14,14 @@ I'm passionate about creating **practical automation solutions** and **developer
 
 ---
 
+## 📝 Latest from My Blog
+
+Visit **[akora.dev](https://akora.dev)** for technical tutorials and project deep-dives, including:
+
+- **[In the beginning there was the terminal](https://akora.dev/posts/in-the-beginning-there-was-the-terminal)** - Showcasing The Emptiness Machine Theme Collection for Oh My Posh
+
+---
+
 ## 🛠️ Featured Projects
 
 ### 🔧 **Automation & DevOps**
@@ -60,10 +68,11 @@ I believe in **Simplicity First** - choosing the most practical solution over co
 
 ## 📫 Let's Connect
 
-- 🌐 **Website**: [andraskora.com](https://andraskora.com)
+- 📝 **Blog**: [akora.dev](https://akora.dev) - Technical tutorials and project stories
+- 🌐 **Website**: [andraskora.com](https://andraskora.com) - Professional portfolio
 - 🐦 **Twitter**: [@AndrasKora](https://twitter.com/AndrasKora)
-- 💼 **LinkedIn**: Connect through my website
-- 📧 **Email**: Available on my website
+- 💼 **LinkedIn**: [andraskora](https://www.linkedin.com/in/andraskora/)
+- 🦋 **Bluesky**: [andraskora.bsky.social](https://bsky.app/profile/andraskora.bsky.social)
 
 ---
 
