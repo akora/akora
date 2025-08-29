@@ -4,10 +4,10 @@
 
 I'm passionate about creating **practical automation solutions** and **developer tools** that solve real-world problems. My work spans from infrastructure automation to media processing, with a focus on **simplicity** and **reliability**.
 
-[![Blog](https://img.shields.io/badge/Blog-akora.dev-a9d6e5)](https://akora.dev)
-[![Website](https://img.shields.io/badge/Website-andraskora.com-468faf)](https://andraskora.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-andraskora-014f86)](https://www.linkedin.com/in/andraskora/)
-[![Email](https://img.shields.io/badge/Email-contact-012a4a)](mailto:ak@akora.info)
+[![Blog](https://img.shields.io/badge/Blog-akora.dev-124559)](https://akora.dev)
+[![Website](https://img.shields.io/badge/Website-andraskora.com-598392)](https://andraskora.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-andraskora-aec3b0)](https://www.linkedin.com/in/andraskora/)
+[![Email](https://img.shields.io/badge/Email-contact-eff6e0)](mailto:ak@akora.info)
 
 ### 🎯 Current Focus Areas
 
