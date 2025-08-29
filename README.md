@@ -4,7 +4,7 @@
 
 I'm passionate about creating **practical automation solutions** and **developer tools** that solve real-world problems. My work spans from infrastructure automation to media processing, with a focus on **simplicity** and **reliability**.
 
-[![Blog](https://img.shields.io/badge/Blog-akora.dev-darkslategrey)](https://akora.dev)
+[![Blog](https://img.shields.io/badge/Blog-akora.dev-deepskyblue)](https://akora.dev)
 [![Website](https://img.shields.io/badge/Website-andraskora.com-yellow)](https://andraskora.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-andraskora-0077B5)](https://www.linkedin.com/in/andraskora/)
 [![Email](https://img.shields.io/badge/Email-contact-D14836)](mailto:ak@akora.info)
