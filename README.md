@@ -6,7 +6,7 @@ I'm passionate about creating **practical automation solutions** and **developer
 
 [![Blog](https://img.shields.io/badge/Blog-akora.dev-fdc500)](https://akora.dev)
 [![Website](https://img.shields.io/badge/Website-andraskora.com-00a8e8)](https://andraskora.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-andraskora-00509d)](https://www.linkedin.com/in/andraskora/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-andraskora-4c956c)](https://www.linkedin.com/in/andraskora/)
 [![Email](https://img.shields.io/badge/Email-contact-f3722c)](mailto:ak@akora.info)
 
 ### 🎯 Current Focus Areas
