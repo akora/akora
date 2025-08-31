@@ -31,21 +31,25 @@ Visit **[akora.dev](https://akora.dev)** for technical tutorials and project dee
 ## 🛠️ Featured Projects
 
 ### 🔧 **Automation & DevOps**
+
 - **[drupal-ansible-automation](https://github.com/akora/drupal-ansible-automation)** - Production-ready Drupal 11 deployment on DigitalOcean
 - **[ghost-blog-automation](https://github.com/akora/ghost-blog-automation)** - Automated Ghost 6.0 blog deployment with Ansible
 - **[local-dev-env-check](https://github.com/akora/local-dev-env-check)** - Development environment security auditing tool
 
 ### 📊 **Data & Monitoring**
+
 - **[smashing-dashboards](https://github.com/akora/smashing-dashboards)** ⭐ 4 - Family dashboards using Smashing
 - **[cryptorates2influxdb](https://github.com/akora/cryptorates2influxdb)** - Cryptocurrency rates monitoring
 - **[travel-map-viewer](https://github.com/akora/travel-map-viewer)** - Interactive travel history visualization
 
 ### 📁 **Media & Document Processing**
+
 - **[pdf-to-markdown](https://github.com/akora/pdf-to-markdown)** - OCR and document processing for Obsidian
 - **[photo-organizer](https://github.com/akora/photo-organizer)** - Intelligent photo collection management
 - **[media-batch-manager](https://github.com/akora/media-batch-manager)** - Smart media file organization
 
 ### 🔌 **API Integrations**
+
 - **[gmail-message-counter-python](https://github.com/akora/gmail-message-counter-python)** ⭐ 8 - Gmail API integration
 - **[openweathermap-python](https://github.com/akora/openweathermap-python)** ⭐ 2 - Weather data collection
 - **[fixerio-python](https://github.com/akora/fixerio-python)** ⭐ 3 - Exchange rates API client
@@ -63,7 +67,7 @@ Visit **[akora.dev](https://akora.dev)** for technical tutorials and project dee
 
 ## 💡 Philosophy
 
-I believe in **Simplicity First** - choosing the most practical solution over complex patterns. My repositories reflect this approach, focusing on:
+I believe in **Simplicity First** - choosing the most practical solution over complex patterns. I'm focusing on:
 
 - ✅ **Immediate usability** - tools that work out of the box
 - ✅ **Clear documentation** - code that explains itself
