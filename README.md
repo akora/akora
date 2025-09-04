@@ -1,4 +1,4 @@
-# Hi there, I'm Andras Kora 👋
+# Hi there 👋
 
 ## 🚀 What I Do
 
