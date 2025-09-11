@@ -24,7 +24,8 @@ I'm passionate about creating **practical automation solutions** and **developer
 Visit **[akora.dev](https://akora.dev)** for technical tutorials and project deep-dives, including:
 
 - **[In the beginning there was the terminal](https://akora.dev/posts/in-the-beginning-there-was-the-terminal)** - Showcasing The Emptiness Machine Theme Collection for Oh My Posh
-- **[Building a Multi-Tier Home Lab](https://akora.dev/series/multi-tier-home-lab/)** - A complete guide on how to build a multi-tier home lab from scratch.
+- **[Building a Multi-Tier Home Lab](https://akora.dev/series/multi-tier-home-lab/)** - A complete guide on how to build a multi-tier home lab from scratch
+- **[PRP & PRD generation](https://akora.dev/series/product-requirements-document-generation/)** - A working example of a Product Requirements Prompt (PRP) and a Product Requirements Document (PRD) generation with Gemini
 
 ---
 
