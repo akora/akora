@@ -34,7 +34,7 @@ Visit **[akora.dev](https://akora.dev)** for technical tutorials and project dee
 
 ### 🗄️ **Digital Vault & Asset Management**
 
-- **[vodm](https://github.com/akora/vodm)** - VoDM: Vault of Digital Memories - Comprehensive digital asset management (heavily ViP) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- **[vault-of-memories](https://github.com/akora/vault-of-memories)** - VoDM: Vault of Digital Memories - Comprehensive digital asset management (heavily ViP)
 - **[digital-vault-organizer](https://github.com/akora/digital-vault-organizer)** - Automated file organization system ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 - **[digital-vault-archive-builder](https://github.com/akora/digital-vault-archive-builder)** - Archive building and management ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
