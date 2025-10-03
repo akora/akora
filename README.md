@@ -2,7 +2,7 @@
 
 ## 🚀 What I Do
 
-I'm passionate about creating **practical automation solutions** and **developer tools** that solve real-world problems. My work spans from infrastructure automation to media processing, with a focus on **simplicity** and **reliability**.
+I'm passionate about creating **practical automation solutions**, **developer tools**, and **next-generation UI systems** that solve real-world problems. My work spans from inventing new UI paradigms to infrastructure automation and media processing, with a focus on **simplicity** and **reliability**.
 
 [![Blog](https://img.shields.io/badge/Blog-akora.dev-fdc500)](https://akora.dev)
 [![Website](https://img.shields.io/badge/Website-andraskora.com-00a8e8)](https://andraskora.com)
@@ -11,6 +11,7 @@ I'm passionate about creating **practical automation solutions** and **developer
 
 ### 🎯 Current Focus Areas
 
+- **Next-Generation UI Systems** - Inventing a new paradigm for modern user interfaces at [focusui.io](https://focusui.io/)
 - **Home Lab Infrastructure** - Multi-tier containerized environments with Docker and Traefik
 - **Digital Vault Systems** - Comprehensive digital asset management solutions
 - **Modern Web Development** - Astro-based static sites and JAMstack architectures
@@ -46,6 +47,7 @@ Visit **[akora.dev](https://akora.dev)** for technical tutorials and project dee
 
 ### 🌐 **Modern Web Development**
 
+- **[focusui](https://github.com/akora/focusui)** - New paradigm for modern user interfaces - check out: [focusui.io](https://focusui.io/)
 - **[akora-dev-blog-astro-citrus](https://github.com/akora/akora-dev-blog-astro-citrus)** - Developer blog v2.0 built with Astro and Citrus theme ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 - **[akora-dev-blog](https://github.com/akora/akora-dev-blog)** - Original Astro blog with MultiTerm theme ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white)
 - **[travel-map-viewer](https://github.com/akora/travel-map-viewer)** - Flask-based travel history visualization with Google Maps ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -76,11 +78,11 @@ Visit **[akora.dev](https://akora.dev)** for technical tutorials and project dee
 
 ## 🌱 Currently Learning
 
+- **UI Paradigm Innovation** - Exploring and building next-generation user interface systems with React and TypeScript
 - **Digital Asset Management** - Building comprehensive vault systems for personal data
-- **Astro Framework** - Static site generation and modern web architecture
+- **Modern Frontend Architecture** - Component-driven development and design system patterns
 - **Container Orchestration** - Advanced Docker Compose and Traefik configurations
 - **OCR and Document Processing** - EasyOCR integration and automated document workflows
-- **Network Discovery** - Device mapping and home network automation
 - **Media Processing Pipelines** - Automated photo/video organization and preprocessing
 
 ---
@@ -99,6 +101,8 @@ I believe in **Simplicity First** - choosing the most practical solution over co
 ## 🔧 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Drupal](https://img.shields.io/badge/-Drupal-0678BE?style=flat&logo=drupal&logoColor=white)
