@@ -2,7 +2,7 @@
 
 ## 🚀 What I Do
 
-I'm passionate about creating **practical automation solutions**, **developer tools**, and **next-generation UI systems** that solve real-world problems. My work spans from inventing new UI paradigms to infrastructure automation and media processing, with a focus on **simplicity** and **reliability**.
+I'm passionate about creating **practical automation solutions**, **developer tools**, and **next-generation UI systems** that solve real-world problems. My work spans from exploring new UI paradigms to infrastructure automation and media processing, with a focus on **simplicity** and **reliability**.
 
 [![Blog](https://img.shields.io/badge/Blog-akora.dev-fdc500)](https://akora.dev)
 [![Website](https://img.shields.io/badge/Website-andraskora.com-00a8e8)](https://andraskora.com)
@@ -11,10 +11,9 @@ I'm passionate about creating **practical automation solutions**, **developer to
 
 ### 🎯 Current Focus Areas
 
-- **Next-Generation UI Systems** - Inventing a new paradigm for modern user interfaces at [focusui.io](https://focusui.io/)
+- **Next-Generation UI Systems** - Exploring a new paradigm for modern user interfaces at [focusui.io](https://focusui.io/)
 - **Home Lab Infrastructure** - Multi-tier containerized environments with Docker and Traefik
 - **Digital Vault Systems** - Comprehensive digital asset management solutions
-- **Modern Web Development** - Astro-based static sites and JAMstack architectures
 - **Automated Media Processing** - Intelligent photo/video organization and preprocessing pipelines
 - **Developer Experience Tools** - Terminal themes, system analyzers, and productivity utilities
 - **Infrastructure as Code** - Ansible automation for production deployments
@@ -45,7 +44,7 @@ Visit **[akora.dev](https://akora.dev)** for technical tutorials and project dee
 - **[drupal-ansible-automation](https://github.com/akora/drupal-ansible-automation)** - Production-ready Drupal 11 deployment on DigitalOcean ![Drupal](https://img.shields.io/badge/-Drupal-0678BE?style=flat&logo=drupal&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 - **[ghost-blog-automation](https://github.com/akora/ghost-blog-automation)** - Automated Ghost 6.0 blog deployment with Ansible ![Ghost](https://img.shields.io/badge/-Ghost-15171A?style=flat&logo=ghost&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 
-### 🌐 **Modern Web Development**
+### 🌐 **Modern Web Development & Next-gen UI Systems**
 
 - **[focusui](https://github.com/akora/focusui)** - New paradigm for modern user interfaces - check out: [focusui.io](https://focusui.io/)
 - **[akora-dev-blog-astro-citrus](https://github.com/akora/akora-dev-blog-astro-citrus)** - Developer blog v2.0 built with Astro and Citrus theme ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -78,7 +77,7 @@ Visit **[akora.dev](https://akora.dev)** for technical tutorials and project dee
 
 ## 🌱 Currently Learning
 
-- **UI Paradigm Innovation** - Exploring and building next-generation user interface systems with React and TypeScript
+- **UI Paradigm Innovation** - Exploring and building next-generation user interface systems
 - **Digital Asset Management** - Building comprehensive vault systems for personal data
 - **Modern Frontend Architecture** - Component-driven development and design system patterns
 - **Container Orchestration** - Advanced Docker Compose and Traefik configurations
