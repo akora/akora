@@ -2,7 +2,7 @@
 
 ## 🚀 What I Do
 
-I'm passionate about creating **practical automation solutions**, **developer tools**, and **next-generation UI systems** that solve real-world problems. My work spans from exploring new UI paradigms to infrastructure automation and media processing, with a focus on **simplicity** and **reliability**.
+I'm passionate about creating **practical automation solutions**, **developer tools**, and **next-generation UI systems** that solve real-world problems. My work spans from exploring new UI paradigms to infrastructure automation and media processing, with a focus on **simplicity** and **reliability**. I'm also fascinated by **global hackerspace communities** and building tools to explore and connect with maker spaces worldwide.
 
 [![Blog](https://img.shields.io/badge/Blog-akora.dev-fdc500)](https://akora.dev)
 [![Website](https://img.shields.io/badge/Website-andraskora.com-00a8e8)](https://andraskora.com)
@@ -17,6 +17,7 @@ I'm passionate about creating **practical automation solutions**, **developer to
 - **Automated Media Processing** - Intelligent photo/video organization and preprocessing pipelines
 - **Developer Experience Tools** - Terminal themes, system analyzers, and productivity utilities
 - **Infrastructure as Code** - Ansible automation for production deployments
+- **Global Hackerspace Exploration** - Building tools to discover and connect with maker spaces worldwide
 
 ---
 
@@ -66,6 +67,7 @@ Visit **[akora.dev](https://akora.dev)** for technical tutorials and project dee
 - **[android-app-inventory](https://github.com/akora/android-app-inventory)** - Android app inventory with Google Play Store integration ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
 - **[macos-installed-apps](https://github.com/akora/macos-installed-apps)** - macOS application analyzer ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
 - **[deduplicate-zsh-history](https://github.com/akora/deduplicate-zsh-history)** - ZSH history optimization utility ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Zsh](https://img.shields.io/badge/-Zsh-F15A24?style=flat&logo=gnu-bash&logoColor=white)
+- **[spaceapi-explorer](https://github.com/akora/spaceapi-explorer)** - Python toolkit for exploring the global hackerspace ecosystem ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 📊 **Data & Monitoring**
 
@@ -83,6 +85,7 @@ Visit **[akora.dev](https://akora.dev)** for technical tutorials and project dee
 - **Container Orchestration** - Advanced Docker Compose and Traefik configurations
 - **OCR and Document Processing** - EasyOCR integration and automated document workflows
 - **Media Processing Pipelines** - Automated photo/video organization and preprocessing
+- **Hackerspace Ecosystem Analysis** - SpaceAPI integration and global maker community data
 
 ---
 
