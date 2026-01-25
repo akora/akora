@@ -2,7 +2,7 @@
 
 ## 🚀 What I Do
 
-I'm passionate about creating **practical automation solutions**, **developer tools**, and **next-generation UI systems** that solve real-world problems. My work spans from exploring new UI paradigms to infrastructure automation and media processing, with a focus on **simplicity** and **reliability**. I'm also fascinated by **global hackerspace communities** and building tools to explore and connect with maker spaces worldwide.
+I'm passionate about creating **practical automation solutions**, **developer tools**, and **next-generation UI systems** that solve real-world problems. My work spans from exploring new UI paradigms to infrastructure automation and media processing, with a focus on **simplicity** and **reliability**. I'm also fascinated by **global hackerspace communities** and building tools to explore and connect with maker spaces worldwide. Additionally, I explore **creative writing and digital storytelling** through sci-fi narratives and interactive web experiences.
 
 [![Blog](https://img.shields.io/badge/Blog-akora.dev-fdc500)](https://akora.dev)
 [![Website](https://img.shields.io/badge/Website-andraskora.com-00a8e8)](https://andraskora.com)
@@ -18,6 +18,7 @@ I'm passionate about creating **practical automation solutions**, **developer to
 - **Developer Experience Tools** - Terminal themes, system analyzers, and productivity utilities
 - **Infrastructure as Code** - Ansible automation for production deployments
 - **Global Hackerspace Exploration** - Building tools to discover and connect with maker spaces worldwide
+- **Creative Writing & Digital Storytelling** - Crafting sci-fi narratives and interactive web experiences - check out: [g100w.com](https://g100w.com)
 
 ---
 
@@ -51,6 +52,10 @@ Visit **[akora.dev](https://akora.dev)** for technical tutorials and project dee
 - **[akora-dev-blog-astro-citrus](https://github.com/akora/akora-dev-blog-astro-citrus)** - Developer blog v2.0 built with Astro and Citrus theme ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 - **[akora-dev-blog](https://github.com/akora/akora-dev-blog)** - Original Astro blog with MultiTerm theme ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white)
 - **[travel-map-viewer](https://github.com/akora/travel-map-viewer)** - Flask-based travel history visualization with Google Maps ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+
+### 📚 **Creative Writing & Digital Storytelling**
+
+- **[g100w](https://github.com/akora/g100w)** - G100W "GLOW" - Sci-fi short story about the end of probability, with dedicated website at [g100w.com](https://g100w.com) ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white)
 
 ### 📁 **Media & Document Processing**
 
