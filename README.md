@@ -2,7 +2,7 @@
 
 ## 🚀 What I Do
 
-I'm passionate about creating **practical automation solutions**, **developer tools**, and **next-generation UI systems** that solve real-world problems. My work spans from exploring new UI paradigms to infrastructure automation and media processing, with a focus on **simplicity** and **reliability**. I'm also fascinated by **global hackerspace communities** and building tools to explore and connect with maker spaces worldwide. Additionally, I explore **creative writing and digital storytelling** through sci-fi narratives and interactive web experiences.
+I build digital tools and tell stories that focus on the human side of technology. Whether I’m designing focused UI systems, automating infrastructure, or exploring ideas through creative writing, I aim for the same things: clarity and simplicity. You can find the full map of my projects, tutorials, and musings across the links below.
 
 [![Blog](https://img.shields.io/badge/Blog-akora.dev-fdc500)](https://akora.dev)
 [![Website](https://img.shields.io/badge/Website-andraskora.com-00a8e8)](https://andraskora.com)
@@ -26,6 +26,8 @@ I'm passionate about creating **practical automation solutions**, **developer to
 
 Visit **[akora.dev](https://akora.dev)** for technical tutorials and project deep-dives, including:
 
+- **[Exploring Hackerspaces with SpaceAPI](https://akora.dev/posts/hackerspaces-spaceapi-exploration/)** - Discovering global hackerspaces using the SpaceAPI and Python
+- **[Github to Gitea: Repository Synchronization](https://akora.dev/posts/github-to-gitea-mirror/)** - Containerized Github to Gitea mirror service for automated repository synchronization and backup
 - **[In the beginning there was the terminal](https://akora.dev/posts/in-the-beginning-there-was-the-terminal)** - Showcasing The Emptiness Machine Theme Collection for Oh My Posh
 - **[Building a Multi-Tier Home Lab](https://akora.dev/series/multi-tier-home-lab/)** - A complete guide on how to build a multi-tier home lab from scratch
 - **[PRP & PRD generation](https://akora.dev/series/product-requirements-document-generation/)** - A working example of a Product Requirements Prompt (PRP) and a Product Requirements Document (PRD) generation with Gemini
