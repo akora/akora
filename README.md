@@ -2,7 +2,7 @@
 
 ## 🚀 What I Do
 
-I build digital tools and tell stories that focus on the human side of technology. Whether I’m designing focused UI systems, automating infrastructure, or exploring ideas through creative writing, I aim for the same things: clarity and simplicity. You can find the full map of my projects, tutorials, and musings across the links below.
+I build digital tools and tell stories that focus on the human side of technology. Whether I'm designing focused UI systems, building sovereign infrastructure, automating deployments, or exploring ideas through creative writing, I aim for the same things: clarity and simplicity. You can find the full map of my projects, tutorials, and musings across the links below.
 
 [![Blog](https://img.shields.io/badge/Blog-akora.dev-fdc500)](https://akora.dev)
 [![Website](https://img.shields.io/badge/Website-andraskora.com-00a8e8)](https://andraskora.com)
@@ -11,6 +11,7 @@ I build digital tools and tell stories that focus on the human side of technolog
 
 ### 🎯 Current Focus Areas
 
+- **Sovereign Infrastructure Consultancy** - Building local-first, decentralized systems for digital autonomy at [provisionedge.com](https://provisionedge.com/)
 - **Next-Generation UI Systems** - Exploring a new paradigm for modern user interfaces at [focusui.io](https://focusui.io/)
 - **Home Lab Infrastructure** - Multi-tier containerized environments with Docker and Traefik
 - **Digital Vault Systems** - Comprehensive digital asset management solutions
@@ -44,6 +45,7 @@ Visit **[akora.dev](https://akora.dev)** for technical tutorials and project dee
 
 ### 🏠 **Home Lab & Infrastructure**
 
+- **[provisionedge](https://github.com/akora/provisionedge)** - Sovereign infrastructure consultancy: local-first, decentralized systems for digital autonomy - check out: [provisionedge.com](https://provisionedge.com/) ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 - **[homelab](https://github.com/akora/homelab)** - Multi-tier home lab with Docker, Ansible, Traefik, and Portainer ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![Traefik](https://img.shields.io/badge/-Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white)
 - **[drupal-ansible-automation](https://github.com/akora/drupal-ansible-automation)** - Production-ready Drupal 11 deployment on DigitalOcean ![Drupal](https://img.shields.io/badge/-Drupal-0678BE?style=flat&logo=drupal&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 - **[ghost-blog-automation](https://github.com/akora/ghost-blog-automation)** - Automated Ghost 6.0 blog deployment with Ansible ![Ghost](https://img.shields.io/badge/-Ghost-15171A?style=flat&logo=ghost&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
