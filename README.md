@@ -2,10 +2,11 @@
 
 ## 🚀 What I Do
 
-I build digital tools and tell stories that focus on the human side of technology. Whether I'm designing focused UI systems, building sovereign infrastructure, automating deployments, or exploring ideas through creative writing, I aim for the same things: clarity and simplicity. You can find the full map of my projects, tutorials, and musings across the links below.
+I build digital tools and tell stories that focus on the human side of technology. Whether I’m designing focused UI systems, building sovereign infrastructure, automating deployments, exploring the world from the air, or documenting what I notice along the way, I aim for the same things: clarity and simplicity. You can find the full map of my projects, tutorials, and musings across the links below.
 
 [![Blog](https://img.shields.io/badge/Blog-akora.dev-fdc500)](https://akora.dev)
 [![Website](https://img.shields.io/badge/Website-andraskora.com-00a8e8)](https://andraskora.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-akora.info-e5e7eb)](https://akora.info)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-andraskora-4c956c)](https://www.linkedin.com/in/andraskora/)
 [![Email](https://img.shields.io/badge/Email-contact-f3722c)](mailto:ak@akora.info)
 
