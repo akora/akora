@@ -102,11 +102,11 @@ Visit **[akora.dev](https://akora.dev)** for technical tutorials and project dee
 
 I believe technology should be clear, owned, and human.
 
-- **Clarity over complexity** — the best solution is one anyone can read and maintain
-- **Own your stack** — local-first, self-hosted, and sovereign by design
-- **Build to learn, document to share** — writing is thinking; publishing is contributing
-- **Tools serve people** — technology should amplify human intent, not complicate it
-- **Ship and iterate** — real-world use beats theoretical perfection every time
+- **Clarity over complexity** - the best solution is one anyone can read and maintain
+- **Own your stack** - local-first, self-hosted, and sovereign by design
+- **Build to learn, document to share** - writing is thinking; publishing is contributing
+- **Tools serve people** - technology should amplify human intent, not complicate it
+- **Ship and iterate** - real-world use beats theoretical perfection every time
 
 ---
 
@@ -143,6 +143,6 @@ I believe technology should be clear, owned, and human.
 
 - 📝 **Blog**: [akora.dev](https://akora.dev) - Technical tutorials and project stories
 - 🌐 **Website**: [andraskora.com](https://andraskora.com) - Professional portfolio
-- 🐦 **Twitter**: [@AndrasKora](https://twitter.com/AndrasKora)
+- 🐦 **X / Twitter**: [@AndrasKora](https://twitter.com/AndrasKora)
 - 💼 **LinkedIn**: [andraskora](https://www.linkedin.com/in/andraskora/)
 - 🦋 **Bluesky**: [andraskora.bsky.social](https://bsky.app/profile/andraskora.bsky.social)
