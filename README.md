@@ -93,7 +93,6 @@ Visit **[akora.dev](https://akora.dev)** for technical tutorials and project dee
 - **Digital Asset Management** - Building comprehensive vault systems for personal data
 - **Modern Frontend Architecture** - Component-driven development and design system patterns
 - **Container Orchestration** - Advanced Docker Compose and Traefik configurations
-- **OCR and Document Processing** - EasyOCR integration and automated document workflows
 - **Media Processing Pipelines** - Automated photo/video organization and preprocessing
 - **Hackerspace Ecosystem Analysis** - SpaceAPI integration and global maker community data
 
@@ -101,12 +100,13 @@ Visit **[akora.dev](https://akora.dev)** for technical tutorials and project dee
 
 ## 💡 Philosophy
 
-I believe in **Simplicity First** - choosing the most practical solution over complex patterns. I'm focusing on:
+I believe technology should be clear, owned, and human.
 
-- ✅ **Immediate usability** - tools that work out of the box
-- ✅ **Clear documentation** - code that explains itself
-- ✅ **Minimal dependencies** - lean and maintainable solutions
-- ✅ **Real-world testing** - battle-tested in production environments
+- **Clarity over complexity** — the best solution is one anyone can read and maintain
+- **Own your stack** — local-first, self-hosted, and sovereign by design
+- **Build to learn, document to share** — writing is thinking; publishing is contributing
+- **Tools serve people** — technology should amplify human intent, not complicate it
+- **Ship and iterate** — real-world use beats theoretical perfection every time
 
 ---
 
