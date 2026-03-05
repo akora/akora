@@ -87,17 +87,6 @@ Visit **[akora.dev](https://akora.dev)** for technical tutorials and project dee
 
 ---
 
-## 🌱 Currently Learning
-
-- **UI Paradigm Innovation** - Exploring and building next-generation user interface systems
-- **Digital Asset Management** - Building comprehensive vault systems for personal data
-- **Modern Frontend Architecture** - Component-driven development and design system patterns
-- **Container Orchestration** - Advanced Docker Compose and Traefik configurations
-- **Media Processing Pipelines** - Automated photo/video organization and preprocessing
-- **Hackerspace Ecosystem Analysis** - SpaceAPI integration and global maker community data
-
----
-
 ## 💡 Philosophy
 
 - **Preparation is EVERYTHING** - do your homework 
