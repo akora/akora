@@ -100,13 +100,10 @@ Visit **[akora.dev](https://akora.dev)** for technical tutorials and project dee
 
 ## 💡 Philosophy
 
-I believe technology should be clear, owned, and human.
-
-- **Clarity over complexity** - the best solution is one anyone can read and maintain
-- **Own your stack** - local-first, self-hosted, and sovereign by design
+- **Preparation is EVERYTHING** - do your homework 
 - **Build to learn, document to share** - writing is thinking; publishing is contributing
-- **Tools serve people** - technology should amplify human intent, not complicate it
-- **Ship and iterate** - real-world use beats theoretical perfection every time
+- **Continuous refinement** - kaizen enables early feedback, followed by small, incremental adjustments
+- **Track the past, plan the future** - get the foundations right
 
 ---
 
